@@ -72,10 +72,21 @@ form {
 	position: relative;
 	top: 132px;
 	font-size: 14px;
-	width: 420px;
+	min-width: 420px;
 	left: 35%;
 }
 
 .break {
-	height:12px;
+	min-height:12px;
 }
+
+.shopall-button {
+	background-color: #00CED1;
+	border-radius: 40%;
+	min-height: 32px;
+	min-width: 140px;
+	border: 2px solid #1E90FF;
+}
+
+
+
