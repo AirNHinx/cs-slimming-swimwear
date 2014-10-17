@@ -2,10 +2,6 @@ body {
 	font: 11px/1.35 Arial, Helvetica, sans-serif;
 	color: #3e3e3e;
 	text-align: center;
-	background-image: url("../img/main-img-w-logo.jpg");
-	min-height: 1010px;
-	background-repeat: no-repeat;
-	min-width: 100%;
 }
 
 .banner {
@@ -45,9 +41,9 @@ form {
 
 }
 
-/*.main-img {
+.main-img {
 	background-image: url("../img/main-img-w-logo.jpg");
 	min-height: 1010px;
 	background-repeat: no-repeat;
 	min-width: 100%;
-}*/
+}
