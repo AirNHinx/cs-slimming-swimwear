@@ -101,9 +101,13 @@ img.ms-logo {
 }
 
 .size-links {
-	border:1px solid white;
+	border: 1px solid white;
 	background-color: #DCDCDC;
-	opacity: 0.2;
-	height:60px;
-	width:60px;
+	opacity: 0.8;
+	height: 196px;
+	width: 200px;
+	/* float: right; */
+	position: relative;
+	left: 770px;
+	top: -32px;
 }
