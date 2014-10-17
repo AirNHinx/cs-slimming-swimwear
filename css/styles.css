@@ -59,7 +59,7 @@ form {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
 	position: absolute;
-	top: 12px;
+	top: 4px;
 	left: 321px;
 	font-size: 24px;
 
@@ -68,11 +68,11 @@ form {
 .paragraphs {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
-	position: relative;
-	top: 132px;
-	font-size: 14px;
-	min-width: 420px;
-	/*left: 35%;*/
+	position: absolute;
+	top: 38px;
+	font-size: 12px;
+	width: 360px;
+	left: 320px;
 }
 
 .break {
@@ -80,15 +80,17 @@ form {
 }
 
 .shopall-button {
-	background-color: #00CED1;
-	border-radius: 40%;
-	min-height: 32px;
-	min-width: 140px;
-	border: 2px solid #1E90FF;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 4px;
+	left: 321px;
+	font-size: 24px;
 }
 
 img.ms-logo {
 	float:left;
 	height:140px;
+	display:in
 }
 
