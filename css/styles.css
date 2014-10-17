@@ -46,7 +46,7 @@ form {
 }
 
 .main-img {
-	background-image: url("../img/main-img-w-logo.jpg");
+	background-image: url("../img/main-img-no-logo.jpg");
 	min-height: 1010px;
 	background-repeat: no-repeat;
 	min-width: 50%;
