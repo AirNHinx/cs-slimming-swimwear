@@ -73,7 +73,7 @@ form {
 	top: 132px;
 	font-size: 14px;
 	min-width: 420px;
-	left: 35%;
+	/*left: 35%;*/
 }
 
 .break {
@@ -88,5 +88,8 @@ form {
 	border: 2px solid #1E90FF;
 }
 
-
+img.ms-logo {
+	float:left;
+	height:140px;
+}
 
