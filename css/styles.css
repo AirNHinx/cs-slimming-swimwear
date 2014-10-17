@@ -4,3 +4,10 @@ body {
 	text-align: center;
 	/**background: url('../images/bg_Body.gif') #fff;**/
 }
+
+.collection-callout {
+	color:#1E90FF;
+	font-style:italic;
+	text-align: center;
+	
+}
