@@ -112,7 +112,8 @@ img.ms-logo {
 	top: -32px;
 }
 
-.size-links>p {
+.size-links>p>a {
 	font-size:24px;
 	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
 }
