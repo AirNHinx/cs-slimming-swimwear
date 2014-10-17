@@ -121,9 +121,11 @@ img.ms-logo {
 
 #misses {
 	position:relative;
+	bottom:22px;
 
 }
 
 #d, #dd, #plus {
 	position:relative;
+	top:84px;
 }
