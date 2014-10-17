@@ -96,3 +96,14 @@ img.ms-logo {
 	display:in
 }
 
+.size-links-container {
+
+}
+
+.size-links {
+	border:1px solid white;
+	background-color: #DCDCDC;
+	opacity: 0.2;
+	height:60px;
+	width:60px;
+}
