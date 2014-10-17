@@ -120,9 +120,10 @@ img.ms-logo {
 }
 
 #misses {
+	position:relative;
 
 }
 
 #d, #dd, #plus {
-
+	position:relative;
 }
