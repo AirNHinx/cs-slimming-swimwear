@@ -54,3 +54,13 @@ form {
 	top: 100px;
 	margin-left: 23%;
 }
+
+.headline {
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraphs {
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
