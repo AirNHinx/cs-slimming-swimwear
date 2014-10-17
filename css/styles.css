@@ -46,4 +46,7 @@ form {
 	min-height: 1010px;
 	background-repeat: no-repeat;
 	min-width: 100%;
+	position: relative;
+	top: 100px;
+	margin-left: 23%;
 }
