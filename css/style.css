@@ -35,3 +35,26 @@ body {
 	right: 0;
 	top: 4px;
 }
+
+section {
+	position: relative;
+	width: 990px;
+	min-height: 800px;
+	text-align: center;
+}
+
+.upper-fold {
+	top: 18px;
+}
+
+img.ms-logo {
+	position: absolute;
+	top: -20px;
+	display: block;
+	left: 0;
+}
+
+h2.headline {
+	position: absolute;
+	top: 0;
+}
