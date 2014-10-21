@@ -109,3 +109,30 @@ button.shopall-button {
 	color: white;	
 	text-decoration: none;
 }
+
+.size-links-container {
+	position: absolute;
+	height: 793px;
+	width: 200px;
+	/* text-align: center; */
+	top: 0;
+	display: inline-block;
+	vertical-align: middle;
+	right: 8px;
+}
+
+.size-links {
+	border: 1px solid white;
+	background-color: #DCDCDC;
+	opacity: 0.8;
+	height: 196px;
+	width: 200px;
+}
+
+.size-links>p>a {
+	position: relative;
+	top: 82px;
+	font-size:24px;
+	text-decoration: none;
+	color:#2F4F4F;
+}
