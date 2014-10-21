@@ -5,7 +5,7 @@ body {
 
 .main-container {
 	position: relative;
-	width: 1200px;
+	width: 990px;
 	min-height: 1100px;
 	padding-left: 25%;
 }
@@ -131,7 +131,7 @@ button.shopall-button {
 
 .size-links>p>a {
 	position: relative;
-	top: 82px;
+	top: 84px;
 	font-size:24px;
 	text-decoration: none;
 	color:#2F4F4F;
