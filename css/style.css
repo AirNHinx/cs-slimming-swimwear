@@ -95,3 +95,8 @@ button.shopall-button {
 	min-width: 140px;
 	border: 2px solid #1E90FF;
 }
+
+.shopnow {
+	color: white;	
+	text-decoration: none;
+}
