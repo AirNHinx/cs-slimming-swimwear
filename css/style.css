@@ -70,10 +70,28 @@ img.ms-logo {
 
 h2.headline {
 	position: absolute;
-	top: 0;
+	top: 10px;
 	font-size: 24px;
+	height: 30px;
+	width: 100%;
 }
 
 h3.paragraphs {
-	font-size: 12px;
+	font-size: 13px;
+	position: absolute;
+	top: 38px;
+}
+
+.break {
+	height: 5px;
+}
+
+button.shopall-button {
+	position: absolute;
+	bottom: 112px;
+	background-color: #00CED1;
+	border-radius: 40%;
+	min-height: 32px;
+	min-width: 140px;
+	border: 2px solid #1E90FF;
 }
