@@ -47,6 +47,10 @@ section {
 	top: 18px;
 }
 
+img.hero-img {
+	position: relative;
+}
+
 img.ms-logo {
 	position: absolute;
 	top: -20px;
@@ -54,7 +58,22 @@ img.ms-logo {
 	left: 0;
 }
 
+.hero-text {
+	position: absolute;
+	width: 360px;
+	height: 360px;
+	top: 0;
+	text-align: center;
+	left: 375px;
+	color: white;
+}
+
 h2.headline {
 	position: absolute;
 	top: 0;
+	font-size: 24px;
+}
+
+h3.paragraphs {
+	font-size: 12px;
 }
