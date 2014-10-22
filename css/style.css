@@ -125,13 +125,13 @@ button.shopall-button {
 	border: 1px solid white;
 	background-color: #DCDCDC;
 	opacity: 0.8;
-	height: 196px;
+	height: 148px;
 	width: 100%;
 }
 
 .size-links>p>a {
 	position: relative;
-	top: 84px;
+	top: 64px;
 	font-size:24px;
 	text-decoration: none;
 	color:#2F4F4F;
