@@ -163,11 +163,6 @@ button.shopall-button {
 	top: 20px;
 }
 
-.rlm-img {
-	position: absolute;
-	left: 0;
-}
-
 p.ss-text {
 	position: absolute;
 	width: 276px;
@@ -243,4 +238,9 @@ a.more-deets {
 	color: #008B8B;
 	font-weight: bold;
 	bottom: 39px;
+}
+
+.rlm-img {
+	position: absolute;
+	left: 12px;
 }
