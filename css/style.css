@@ -152,7 +152,7 @@ button.shopall-button {
 	position: relative;
 	height: 160px;
 	width: 100%;
-	background-color: #1E90FF;
+	background: radial-gradient(#0671DA, rgba(132, 174, 229, 0.88));
 	/* text-align: center; */
 	bottom: 182px;
 	color: white;
