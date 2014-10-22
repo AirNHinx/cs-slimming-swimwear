@@ -168,10 +168,11 @@ button.shopall-button {
 
 p.ss-text {
 	position: absolute;
-	width: 290px;
-	top: 110px;
+	width: 276px;
+	top: 100px;
 	text-align: left;
 	left: 25px;
+	font-size: 14px;
 }
 
 a.ss-shop-link {
@@ -179,4 +180,7 @@ a.ss-shop-link {
 	font-size: 16px;
 	bottom: 28px;
 	left: 40px;
+	color: #008B8B;
+	text-decoration: none;
+	font-weight: bold;
 }
