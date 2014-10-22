@@ -219,3 +219,7 @@ a {
 .ab, .ac, .el, .et, .mb, .mk, .mt, .mw, .sb, .sh, .tc {
 	color: black;
 }
+
+.ss-links {
+	margin-bottom: 30px;
+}
