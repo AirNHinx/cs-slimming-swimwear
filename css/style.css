@@ -160,3 +160,8 @@ button.shopall-button {
 	left: 25px;
 	top: 20px;
 }
+
+.rlm-img {
+	position: absolute;
+	left: 0;
+}
