@@ -209,3 +209,7 @@ a {
 	/* text-align: center; */
 	color: #AFEEEE;
 }
+
+.ab, .ac, .el, .et, .mb, .mk, .mt, .mw, .sb, .sh, .tc {
+	color: black;
+}
