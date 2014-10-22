@@ -137,6 +137,10 @@ button.shopall-button {
 	color:#2F4F4F;
 }
 
+.lower-fold {
+	text-decoration: none;
+}
+
 .kicker-one {
 	position: relative;
 	height: 220px;
@@ -181,6 +185,16 @@ a.ss-shop-link {
 	bottom: 28px;
 	left: 40px;
 	color: #008B8B;
-	text-decoration: none;
 	font-weight: bold;
+}
+
+.ss-container-one {
+	position: relative;
+	width: 100%;
+}
+
+.ss-container-two {
+	position: relative;
+	width: 100%;
+	display: inline;
 }
