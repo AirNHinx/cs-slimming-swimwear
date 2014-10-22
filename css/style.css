@@ -57,6 +57,7 @@ section {
 
 img.hero-img {
 	position: relative;
+	width: 100%;
 }
 
 img.ms-logo {
@@ -118,14 +119,14 @@ button.shopall-button {
 	top: 0;
 	display: inline-block;
 	vertical-align: middle;
-	right: 8px;
+	right: 0;
 }
 
 .size-links {
 	border: 1px solid white;
 	background-color: #DCDCDC;
 	opacity: 0.8;
-	height: 148px;
+	height: 150px;
 	width: 100%;
 }
 
@@ -234,4 +235,12 @@ p.ss-codes {
 	/* font-weight: bold; */
 	font-size: 12px;
 	font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+a.more-deets {
+	position: absolute;
+	left: 0;
+	color: #008B8B;
+	font-weight: bold;
+	bottom: 39px;
 }
