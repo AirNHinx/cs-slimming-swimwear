@@ -165,3 +165,18 @@ button.shopall-button {
 	position: absolute;
 	left: 0;
 }
+
+p.ss-text {
+	position: absolute;
+	width: 290px;
+	top: 110px;
+	text-align: left;
+	left: 25px;
+}
+
+a.ss-shop-link {
+	position: absolute;
+	font-size: 16px;
+	bottom: 28px;
+	left: 40px;
+}
