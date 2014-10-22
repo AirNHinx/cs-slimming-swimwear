@@ -136,3 +136,21 @@ button.shopall-button {
 	text-decoration: none;
 	color:#2F4F4F;
 }
+
+.kicker-one {
+	position: relative;
+	height: 220px;
+	width: 100%;
+	background-color: #AFEEEE;
+	/* text-align: center; */
+	bottom: 182px;
+}
+
+.kicker-two {
+	position: relative;
+	height: 160px;
+	width: 100%;
+	background-color: #1E90FF;
+	/* text-align: center; */
+	bottom: 182px;
+}
