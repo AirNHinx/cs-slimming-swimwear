@@ -154,3 +154,9 @@ button.shopall-button {
 	/* text-align: center; */
 	bottom: 182px;
 }
+
+.ss-logo {
+	position: absolute;
+	left: 25px;
+	top: 20px;
+}
