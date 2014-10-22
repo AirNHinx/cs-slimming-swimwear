@@ -191,7 +191,7 @@ a.ss-shop-link {
 	width: 30%;
 	height: 100%;
 	left: 400px;
-	top: 10px;
+	top: 15px;
 }
 
 .ss-container-two {
@@ -199,7 +199,7 @@ a.ss-shop-link {
 	width: 30%;
 	/* display: inline; */
 	height: 100%;
-	top: 10px;
+	top: 15px;
 	right: 0;
 }
 
@@ -221,5 +221,17 @@ a {
 }
 
 .ss-links {
+	position: relative;
 	height: 33px;
+	/* width: 410px; */
+	text-align: left;
+	left: 36px;
+}
+
+p.ss-codes {
+	top: 4px;
+	position: relative;
+	/* font-weight: bold; */
+	font-size: 12px;
+	font-family: "Arial Narrow", Arial, sans-serif;
 }
