@@ -189,12 +189,23 @@ a.ss-shop-link {
 .ss-container-one {
 	position: relative;
 	width: 100%;
-	text-decoration: none;
 }
 
 .ss-container-two {
 	position: relative;
 	width: 100%;
 	display: inline;
+}
+
+a {
 	text-decoration: none;
+}
+
+.ss {
+	position: absolute;
+	background-color: black;
+	width: 28px;
+	height: 28px;
+	/* text-align: center; */
+	color: #AFEEEE;
 }
