@@ -245,3 +245,36 @@ a.more-deets {
 	position: absolute;
 	left: 12px;
 }
+
+.rlm-content {
+	position: absolute;
+	width: 590px;
+	right: 144px;
+	top: 10px
+}
+
+.rlm-headline {
+	font-family: "Times New Roman", serif;
+	font-size: 44px;
+}
+
+.rlmtext-one {
+	font-family: "Times New Roman", serif;
+	font-size: 30px;
+	position: relative;
+	top: 5px;
+}
+
+.rlmtext-two {
+	position: relative;
+	top: 19px;
+	font-size: 15px;
+}
+
+.rlm-arrow {
+	color: #8B0000;
+	position: absolute;
+	right: -64px;
+	top: 29px;
+	font-size: 85px;
+}
