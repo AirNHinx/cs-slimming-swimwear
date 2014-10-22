@@ -6,7 +6,7 @@ body {
 .main-container {
 	position: relative;
 	width: 990px;
-	min-height: 1100px;
+	min-height: 1050px;
 	padding-left: 25%;
 }
 
@@ -272,9 +272,12 @@ a.more-deets {
 }
 
 .rlm-arrow {
-	color: #8B0000;
 	position: absolute;
 	right: -64px;
 	top: 29px;
 	font-size: 85px;
+}
+
+.rlm-arrow>a {
+	color: #8B0000;
 }
