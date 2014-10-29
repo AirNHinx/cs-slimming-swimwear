@@ -1,16 +1,16 @@
-body {
+.body-eh {
 	font-family: Arial, Helvetica, sans-serif;
 
 }
 
-.main-container {
+.main-container-eh {
 	position: relative;
 	width: 990px;
 	min-height: 1050px;
 	/*padding-left: 25%;*/
 }
 
-.banner {
+.banner-eh {
 	position: relative;
 	width: 930px;
 	height: 40px;
@@ -18,7 +18,7 @@ body {
 	left: 28px;
 }
 
-.banner-callout {
+.banner-callout-eh {
 	position: absolute;
 	height: 100%;
 	width: 100%;
@@ -29,7 +29,7 @@ body {
 	font-size: 30px;
 }
 
-button.shop-button {
+button.shop-button-eh {
 	background-color: #800101;
 	border-radius: 40%;
 	min-height: 28px;
@@ -37,37 +37,37 @@ button.shop-button {
 	border: none;
 }
 
-#shop-now {
+#shop-now-eh {
 	position: absolute;
 	display: inline;
 	right: 0;
 	top: 1px;
 }
 
-section {
+.section-eh {
 	position: relative;
 	width: 990px;
 	min-height: 800px;
 	text-align: center;
 }
 
-.upper-fold {
+.upper-fold-eh {
 	top: 18px;
 }
 
-img.hero-img {
+img.hero-img-eh {
 	position: relative;
 	width: 100%;
 }
 
-img.ms-logo {
+img.ms-logo-eh {
 	position: absolute;
 	top: -20px;
 	display: block;
 	left: 0;
 }
 
-.hero-text {
+.hero-text-eh {
 	position: absolute;
 	width: 360px;
 	height: 360px;
@@ -77,7 +77,7 @@ img.ms-logo {
 	color: white;
 }
 
-h2.headline {
+h2.headline-eh {
 	position: absolute;
 	top: 10px;
 	font-size: 24px;
@@ -85,17 +85,17 @@ h2.headline {
 	width: 100%;
 }
 
-h3.paragraphs {
+h3.paragraphs-eh {
 	font-size: 13px;
 	position: absolute;
 	top: 38px;
 }
 
-.break {
+.break-eh {
 	height: 5px;
 }
 
-button.shopall-button {
+button.shopall-button-eh {
 	position: absolute;
 	bottom: 107px;
 	left: 107px;
@@ -106,12 +106,12 @@ button.shopall-button {
 	border: 2px solid #1E90FF;
 }
 
-.shopnow {
+.shopnow-eh {
 	color: white;	
 	text-decoration: none;
 }
 
-.size-links-container {
+.size-links-container-eh {
 	position: absolute;
 	height: 793px;
 	width: 212px;
@@ -122,7 +122,7 @@ button.shopall-button {
 	right: 0;
 }
 
-.size-links {
+.size-links-eh {
 	border: 1px solid white;
 	background-color: #DCDCDC;
 	opacity: 0.8;
@@ -130,7 +130,7 @@ button.shopall-button {
 	width: 100%;
 }
 
-.size-links>p>a {
+.size-links-eh>p>a {
 	position: relative;
 	top: 64px;
 	font-size:24px;
@@ -139,7 +139,7 @@ button.shopall-button {
 }
 
 
-.kicker-one {
+.kicker-one-eh {
 	position: relative;
 	height: 220px;
 	width: 100%;
@@ -148,7 +148,7 @@ button.shopall-button {
 	bottom: 182px;
 }
 
-.kicker-two {
+.kicker-two-eh {
 	position: relative;
 	height: 160px;
 	width: 100%;
@@ -158,13 +158,13 @@ button.shopall-button {
 	color: white;
 }
 
-.ss-logo {
+.ss-logo-eh {
 	position: absolute;
 	left: 25px;
 	top: 20px;
 }
 
-p.ss-text {
+p.ss-text-eh {
 	position: absolute;
 	width: 276px;
 	top: 100px;
@@ -173,7 +173,7 @@ p.ss-text {
 	font-size: 14px;
 }
 
-a.ss-shop-link {
+a.ss-shop-link-eh {
 	position: absolute;
 	font-size: 16px;
 	bottom: 28px;
@@ -183,7 +183,7 @@ a.ss-shop-link {
 	text-decoration: none;
 }
 
-.ss-container-one {
+.ss-container-one-eh {
 	position: absolute;
 	width: 30%;
 	height: 100%;
@@ -191,7 +191,7 @@ a.ss-shop-link {
 	top: 15px;
 }
 
-.ss-container-two {
+.ss-container-two-eh {
 	position: absolute;
 	width: 30%;
 	/* display: inline; */
@@ -204,7 +204,7 @@ a {
 	text-decoration: none;
 }
 
-.ss {
+.ss-eh {
 	position: absolute;
 	background-color: black;
 	width: 28px;
@@ -213,11 +213,11 @@ a {
 	color: #AFEEEE;
 }
 
-.ab, .ac, .el, .et, .mb, .mk, .mt, .mw, .sb, .sh, .tc {
+.ab-eh, .ac-eh, .el-eh, .et-eh, .mb-eh, .mk-eh, .mt-eh, .mw-eh, .sb-eh, .sh-eh, .tc-eh {
 	color: black;
 }
 
-.ss-links {
+.ss-links-eh {
 	position: relative;
 	height: 33px;
 	/* width: 410px; */
@@ -225,7 +225,7 @@ a {
 	left: 36px;
 }
 
-p.ss-codes {
+p.ss-codes-eh {
 	top: 4px;
 	position: relative;
 	/* font-weight: bold; */
@@ -233,7 +233,7 @@ p.ss-codes {
 	font-family: "Arial Narrow", Arial, sans-serif;
 }
 
-a.more-deets {
+a.more-deets-eh {
 	position: absolute;
 	left: 0;
 	color: #008B8B;
@@ -241,43 +241,43 @@ a.more-deets {
 	bottom: 39px;
 }
 
-.rlm-img {
+.rlm-img-eh {
 	position: absolute;
 	left: 12px;
 }
 
-.rlm-content {
+.rlm-content-eh {
 	position: absolute;
 	width: 590px;
 	right: 144px;
 	top: 10px
 }
 
-.rlm-headline {
+.rlm-headline-eh {
 	font-family: "Times New Roman", serif;
 	font-size: 44px;
 }
 
-.rlmtext-one {
+.rlmtext-one-eh {
 	font-family: "Times New Roman", serif;
 	font-size: 30px;
 	position: relative;
 	top: 5px;
 }
 
-.rlmtext-two {
+.rlmtext-two-eh {
 	position: relative;
 	top: 19px;
 	font-size: 15px;
 }
 
-.rlm-arrow {
+.rlm-arrow-eh {
 	position: absolute;
 	right: -64px;
 	top: 29px;
 	font-size: 85px;
 }
 
-.rlm-arrow>a {
+.rlm-arrow-eh>a {
 	color: #8B0000;
 }
