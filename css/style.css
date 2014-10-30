@@ -29,7 +29,7 @@
 	font-size: 30px;
 }
 
-button.shop-button-eh {
+.shop-button-eh {
 	background-color: #800101;
 	border-radius: 40%;
 	min-height: 28px;
@@ -95,7 +95,7 @@ h3.paragraphs-eh {
 	height: 5px;
 }
 
-button.shopall-button-eh {
+.shopall-button-eh {
 	position: absolute;
 	bottom: 107px;
 	left: 107px;
