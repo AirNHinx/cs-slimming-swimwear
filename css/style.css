@@ -107,8 +107,11 @@ h3.paragraphs-eh {
 }
 
 .shopnow-eh {
-	color: white;	
+	color: white;
 	text-decoration: none;
+	position: inherit;
+	top: 7px;
+	left: 20px;
 }
 
 .size-links-container-eh {
